@@ -9,7 +9,7 @@ public class SignInController
 		@RequestMapping("signin")
 		public String SignIn() 
 			{
-				return "SignIn.jsp";
+				rturn "SignIn.jsp";
 			}
 	
 	}
